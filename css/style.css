@@ -417,7 +417,7 @@ ul {
     .btn-more {
         padding: 5px 50px;
     }
-     .col-2 img{
+     .header .container .row .col-2 img{
         display: none;
     }
 }
